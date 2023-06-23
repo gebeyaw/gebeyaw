@@ -2,6 +2,7 @@ Hi there! 👋
 I'm Gebeyaw Tigabu, a machine learning enthusiast with a passion for building intelligent systems. I specialize in computer vision, data science, and Python development.
 
 ⚡ Skills
+
 Machine Learning
 Deep Learning
 Computer Vision
@@ -11,21 +12,23 @@ TensorFlow
 Keras
 PyTorch
 Scikit-Learn
+
 💻 Projects
 Facial Expression Recognition: A deep learning model that predicts facial expressions in real-time using OpenCV and Keras.
 Object Detection: A computer vision project that uses the YOLO algorithm to detect objects in images and video.
 Sentiment Analysis: A natural language processing project that uses machine learning to analyze and classify text data.
+
 📚 Interests
 Machine Learning
 Computer Vision
 Data Science
 Natural Language Processing
 Robotics
+
 📫 Get in touch
-Twitter: @gebeyaw
-LinkedIn: Gebeyaw Tigabu
-Quora: Gebeyaw Tigabu
-YouTube: Gebeyaw Tigabu
+LinkedIn: [Gebeyaw Tigabu](https://www.linkedin.com/in/gebeyawtigabu/)
+
+
 🏆 Badges
 
 
